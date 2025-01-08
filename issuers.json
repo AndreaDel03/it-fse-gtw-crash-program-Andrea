@@ -6,9 +6,9 @@
     "regione" : "REGIONE_PUGLIA",
     "cfPaziente" : "FSEPGL01E41A145J"
   }, {
-    "nome" : "integrity:S1#100#REGIONEUMBRIATEST",
-    "regione" : "REGIONE_UMBRIA",
-    "cfPaziente" : "CRSMRM80A01G478X"
+    "nome" : "integrity:S1#150CAMPANIATEST",
+    "regione" : "REGIONE_CAMPANIA",
+    "cfPaziente" : "MRCLSN97C14H501J"
   }, {
     "nome" : "integrity:S1#010#REGIONEPIEMONTETEST",
     "regione" : "REGIONE_PIEMONTE",
@@ -77,10 +77,6 @@
     "nome" : "integrity:S1#190#INStestGTW",
     "regione" : "REGIONE_SICILIA",
     "cfPaziente" : "FSESCL80A41H163O"
-  }, {
-    "nome" : "integrity:S1#150CAMPANIATEST",
-    "regione" : "REGIONE_CAMPANIA",
-    "cfPaziente" : "MRCLSN97C14H501J"
   }
   ]
 }
